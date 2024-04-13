@@ -67,7 +67,7 @@ This repository includes sample datasets in CSV format that can be used to pract
 
 Ensure you have the following dependencies installed on your system:
 
-* **JupyterNotebook**: `version x.y.z`
+* **JupyterNotebook**
 
 ###  Installation
 
